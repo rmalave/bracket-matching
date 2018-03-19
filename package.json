@@ -1,0 +1,15 @@
+{
+  "name": "bracket-matching",
+  "version": "1.0.0",
+  "description": "Write a function called `isBalanced` that accepts a string of left and right brackets and returns true if the brackets are balanced.",
+  "main": "bracket-matching.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
